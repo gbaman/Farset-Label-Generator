@@ -2,7 +2,7 @@
 
 ![](images/TestLabel.jpg)
 
-Included in this repository is a simple tool to create labels in SVG format for the Farset Labs Dyno label printer.   
+Included in this repository is a simple tool to create labels in SVG format for the Farset Labs Dymo label printer.   
 It is written in Python and supports both Python 2 and Python 3.   
 
 # How to use
